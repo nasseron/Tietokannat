@@ -13,5 +13,10 @@ SELECT name, type FROM airport where iso_country='FI' ORDER BY type,name
 ### Tehtävä 5
 SELECT name from country WHERE name LIKE 'F%';
 ![kuva](./ruudunkappaukset/FName.png)
-
+### Tehtävä 6
+SELECT name from country where name LIKE '%F%';
+![kuva](./ruudunkappaukset/Name%20kaikkiF.png)
+### TEHTÄVÄ 7
+CELECT location FROM game WHERE screen_name='vesa';
+![kuva](./ruudunkappaukset/vesa_location.png)
 
