@@ -19,4 +19,11 @@ SELECT name from country where name LIKE '%F%';
 ### TEHTÄVÄ 7
 CELECT location FROM game WHERE screen_name='vesa';
 ![kuva](./ruudunkappaukset/vesa_location.png)
+### Tehtävä 8
+SELECT CO2_CONSUMED FROM GAME WHRER SCREEN_NAME='Ilkka';
+![kuva](./ruudunkappaukset/CO2_CONSUMED.png)
+### Tehtävä 9
+SELECT CO2_BUDGET FROM GAME WHERE SCREEN_NAME='Ilkka';
+![kuva](./ruudunkappaukset/1CO2_BUDGET.png)
+
 
